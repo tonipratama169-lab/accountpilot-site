@@ -1,0 +1,26 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Security — AccountPilot</title><meta name="description" content="AccountPilot local-first security principles.">
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml"><link rel="stylesheet" href="assets/styles.css">
+</head><body><header><div class="container nav">
+<a class="brand" href="index.html"><img src="assets/logo.svg" alt="AccountPilot logo"><span>AccountPilot</span></a>
+<nav class="navlinks"><a href="index.html">Home</a><a href="product.html">Product</a><a href="tiktok-publishing.html">Publishing</a><a href="security.html">Security</a><a href="contact.html">Contact</a></nav><a class="btn" href="contact.html">Creator access</a>
+</div></header>
+<main><section class="hero"><div class="container"><div class="eyebrow">Security</div>
+<h1>Local-first by design, explicit by default.</h1>
+<p class="lead">AccountPilot is designed to minimize unnecessary transfer of creator credentials and publishing data.</p></div></section>
+<section><div class="container"><div class="grid two">
+<div class="card"><h3>OAuth, not shared passwords</h3><p>Creators connect supported platform accounts using official authorization flows. The product does not require creators to share their TikTok passwords with other users.</p></div>
+<div class="card"><h3>Local credential protection</h3><p>Desktop authorization secrets and refresh credentials are intended to be stored locally using operating-system protection rather than exposed in the browser interface or logs.</p></div>
+<div class="card"><h3>Fail-closed publishing</h3><p>Missing authorization, changed media, stale approval or incompatible creator capabilities block automated publishing instead of silently proceeding.</p></div>
+<div class="card"><h3>No credential exposure in public UI</h3><p>Access tokens, refresh tokens, client secrets and temporary upload URLs are not displayed in normal public application responses.</p></div>
+</div></div></section>
+<section><div class="container"><div class="callout"><h2>Report a security concern</h2>
+<p class="muted">Contact <a href="mailto:support@YOUR-DOMAIN.example">support@YOUR-DOMAIN.example</a>. Please do not include passwords, access tokens or other secrets in email.</p></div></div></section></main>
+<footer><div class="container footer">
+<div><div class="brand"><img src="assets/logo.svg" alt=""><span>AccountPilot</span></div>
+<p class="small">Local-first creator publishing workspace. Independent software; not affiliated with or endorsed by TikTok.</p></div>
+<div><div class="footer-links"><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms of Service</a>
+<a href="security.html">Security</a><a href="contact.html">Contact</a></div>
+<p class="small">© <span data-year></span> YOUR LEGAL NAME / ENTITY. All rights reserved.</p></div>
+</div></footer><script src="assets/app.js"></script></body></html>
