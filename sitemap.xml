@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR-DOMAIN.example/index.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/product.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/tiktok-publishing.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/security.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/privacy.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/terms.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/contact.html</loc></url>
+<url><loc>https://schedulepilot.gudlabs.xyz/</loc></url>
+<url><loc>https://schedulepilot.gudlabs.xyz/product.html</loc></url>
+<url><loc>https://schedulepilot.gudlabs.xyz/tiktok-publishing.html</loc></url>
+<url><loc>https://schedulepilot.gudlabs.xyz/security.html</loc></url>
+<url><loc>https://schedulepilot.gudlabs.xyz/creator-access.html</loc></url>
+<url><loc>https://schedulepilot.gudlabs.xyz/privacy.html</loc></url>
+<url><loc>https://schedulepilot.gudlabs.xyz/terms.html</loc></url>
+<url><loc>https://schedulepilot.gudlabs.xyz/contact.html</loc></url>
 </urlset>
