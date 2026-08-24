@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://schedulepilot.gudlabs.xyz/</loc></url>
-  <url><loc>https://schedulepilot.gudlabs.xyz/product.html</loc></url>
-  <url><loc>https://schedulepilot.gudlabs.xyz/insights.html</loc></url>
-  <url><loc>https://schedulepilot.gudlabs.xyz/tiktok-integration.html</loc></url>
-  <url><loc>https://schedulepilot.gudlabs.xyz/tiktok-publishing.html</loc></url>
-  <url><loc>https://schedulepilot.gudlabs.xyz/security.html</loc></url>
-  <url><loc>https://schedulepilot.gudlabs.xyz/creator-access.html</loc></url>
-  <url><loc>https://schedulepilot.gudlabs.xyz/privacy.html</loc></url>
-  <url><loc>https://schedulepilot.gudlabs.xyz/terms.html</loc></url>
-  <url><loc>https://schedulepilot.gudlabs.xyz/contact.html</loc></url>
+  <url><loc>https://accountpilot.gudlabs.xyz/</loc></url>
+  <url><loc>https://accountpilot.gudlabs.xyz/product.html</loc></url>
+  <url><loc>https://accountpilot.gudlabs.xyz/tiktok-publishing.html</loc></url>
+  <url><loc>https://accountpilot.gudlabs.xyz/security.html</loc></url>
+  <url><loc>https://accountpilot.gudlabs.xyz/creator-access.html</loc></url>
+  <url><loc>https://accountpilot.gudlabs.xyz/contact.html</loc></url>
+  <url><loc>https://accountpilot.gudlabs.xyz/privacy.html</loc></url>
+  <url><loc>https://accountpilot.gudlabs.xyz/terms.html</loc></url>
+  <url><loc>https://accountpilot.gudlabs.xyz/data-deletion.html</loc></url>
 </urlset>
